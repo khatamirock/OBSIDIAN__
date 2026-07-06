@@ -1,0 +1,267 @@
+{
+  "main": {
+    "id": "0b20d5cbe5220b30",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbd4be62b78651de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e275424c2a77fd2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "READ_LIST/CHEAT_SHEET/Algorithm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Algorithm"
+            }
+          },
+          {
+            "id": "99fe6de169c62f9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "READ_LIST/Random/networking Table and others Algos...md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "networking Table and others Algos.."
+            }
+          },
+          {
+            "id": "4fb7372e4679f139",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "READ_LIST/Database.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Database"
+            }
+          },
+          {
+            "id": "88bb44930bc77365",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "READ_LIST/Random/IP Addressing.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IP Addressing"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f9dab59ea783e35",
+    "type": "split",
+    "children": [
+      {
+        "id": "077842be5c2970bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9572728ad7da07e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "33042aa039d0adda",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"networking devices",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byCreatedTime"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8854d38360466954",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253.51103591918945
+  },
+  "right": {
+    "id": "1b977543f56c97e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "18563e0a4011c2b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c7a3d0a2aa795f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "READ_LIST/Random/networking Table and others Algos...md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for networking Table and others Algos.."
+            }
+          },
+          {
+            "id": "aec23ce26e4d792e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "READ_LIST/CHEAT_SHEET/Operating System (OS).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Operating System (OS)"
+            }
+          },
+          {
+            "id": "c78f9b673c1f8286",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "677e27437eb4c369",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Z-ANALYSIS/NTRCA/2024_schl.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024_schl"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 417.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "a9572728ad7da07e",
+  "lastOpenFiles": [
+    "READ_LIST/Networkings.md",
+    "my_local/2/2_41-80.md",
+    "my_local/2/2_81-112.md",
+    "READ_LIST/Cse.md",
+    "READ_LIST/CHEAT_SHEET/Data Communication.md",
+    "READ_LIST/Practice_Questions.md",
+    "READ_LIST/Random/Transmission media -  Modulation - Multiplexing -Error detection- flow control -Circuit and packet switching..md",
+    "copilot-conversations/what_are_the_notes_relaed_to_direct_memory_mapping@20251016_124419.md",
+    "my_local/1/1_1-40.md",
+    "READ_LIST/TCP layer.md",
+    "Z-ANALYSIS/NTRCA/2022_schl.md",
+    "READ_LIST/Random/Software Development.md",
+    "READ_LIST/CHEAT_SHEET/Software Engineering.md",
+    "READ_LIST/CHEAT_SHEET/Discrete Mathematics.md",
+    "READ_LIST/CHEAT_SHEET/AI - Artificial Intelligence.md",
+    "READ_LIST/English.md",
+    "my_local/2_fll.md",
+    "READ_LIST/Network Sec..md",
+    "READ_LIST/Random/Runtime & compile Time.md",
+    "Obsidian_Notes-main/ml_read.md",
+    "READ_LIST/Database.md",
+    "READ_LIST/CHEAT_SHEET/DBMS.md",
+    "READ_LIST/Random/Integrity Constraints.md",
+    "READ_LIST/Random/functional dependencies Examples.md",
+    "Necessary Scripts/VIVA/DMBS VIVA.md",
+    "my_local/1/1_41-80.md",
+    "TuitIon/bio",
+    "TuitIon/Chem",
+    "TuitIon",
+    "Pasted image 20260412225826.png",
+    "Pasted image 20260412225811.png",
+    "Pasted image 20260412225748.png",
+    "Pasted image 20260412225728.png",
+    "Pasted image 20260412225655.png",
+    "Obsidian_Notes-main/🐘 HADOOP MAP.canvas",
+    "Obsidian_Notes-main/imgs/Pasted image 20260408152912.png",
+    "Obsidian_Notes-main/imgs/Pasted image 20260309103620.png",
+    "Obsidian_Notes-main/imgs/Pasted image 20260308150719.png",
+    "Obsidian_Notes-main/imgs/Pasted image 20260308142051.png",
+    "Obsidian_Notes-main/imgs/Pasted image 20260308141738.png",
+    "Obsidian_Notes-main/imgs",
+    "Obsidian_Notes-main/gifs",
+    "Obsidian_Notes-main/Learned",
+    "Obsidian_Notes-main/HADOOP",
+    "Obsidian_Notes-main/DAGS",
+    "Obsidian_Notes-main",
+    "Z-ANALYSIS/9-13",
+    "877.canvas",
+    "Untitled.canvas"
+  ]
+}
